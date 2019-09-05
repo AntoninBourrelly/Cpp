@@ -21,7 +21,7 @@ cout << "c= " << c << endl;
 // Appel le la fonction Ajouter à compléter dans le tableau suivant le cas.
 Ajouter(a,b,c);
 
-cout << "avant l'appel de Ajouter" << endl;
+cout << "après l'appel de Ajouter" << endl;
 cout << "a= " << a << endl;
 cout << "b= " << b << endl;
 cout << "c= " << c << endl;
